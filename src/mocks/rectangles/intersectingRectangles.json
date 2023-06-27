@@ -1,0 +1,10 @@
+[
+  {
+    "topLeftCoordinate": { "x": 2, "y": 2 },
+    "bottomRightCoordinate": { "x": 8, "y": 6 }
+  },
+  {
+    "topLeftCoordinate": { "x": 5, "y": 4 },
+    "bottomRightCoordinate": { "x": 10, "y": 9 }
+  }
+]
