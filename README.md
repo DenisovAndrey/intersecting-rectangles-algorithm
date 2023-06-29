@@ -29,8 +29,17 @@ Launches the test runner via Jest.
 
 Launches ES linter.
 
+### Description
 
+---
 
+## Task description
+You have a JSON that contains the coordinates of two rectangles. 
+Using the JSON as input, you should determine whether any specified rectangles intersect or not.
+
+## Task solution
+This service parses JSON with Rectangles coordinates, does a minimum validation and 
+builds straight lines for both coordinate axes for two triangles and checks if there are intersections for all axes.
 
 ### Author comment
 
