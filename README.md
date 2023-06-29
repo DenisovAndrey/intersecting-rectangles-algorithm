@@ -6,7 +6,7 @@ This script check if two rectangles are intersecting with each other. (test task
 
 In the project directory, you can run:
 
-### `start:dev <path/to/jsonWithRectanglesDara>`
+### `npm run start:dev <path/to/jsonWithRectanglesDara>`
 
 Runs the script in the development mode.
 You need to have npx installed on your PC to run the project via this script
@@ -15,17 +15,17 @@ You need to have npx installed on your PC to run the project via this script
 
 Builds the app for production to the `dist` folder.
 
-### `start <path/to/jsonWithRectanglesDara>`
+### `npm run start <path/to/jsonWithRectanglesDara>`
 
 Runs the script in the prod mode.
 Can be ran only after the project is built
 
-### `npm test`
+### `npm run test`
 
 Launches the test runner via Jest.
 
 
-### `npm lint`
+### `npm run lint`
 
 Launches ES linter.
 
